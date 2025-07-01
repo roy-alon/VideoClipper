@@ -37,4 +37,5 @@ build/
 *.log
 
 # Ignore nested VideoClipper folder if not needed
+/VideoClipper
 VideoClipper/
