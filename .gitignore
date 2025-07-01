@@ -1,0 +1,40 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Virtual environment
+venv/
+.env/
+
+# Test outputs and media
+test_outputs/
+*.mp4
+*.mkv
+*.avi
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Python egg files
+*.egg
+*.egg-info/
+dist/
+build/
+
+# Jupyter Notebook checkpoints
+.ipynb_checkpoints
+
+# VSCode settings
+.vscode/
+
+# Environment files
+.env
+*.env
+
+# Logs
+*.log
+
+# Ignore nested VideoClipper folder if not needed
+VideoClipper/VideoClipper/ 

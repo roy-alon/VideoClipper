@@ -1,0 +1,79 @@
+1
+00:00:00,000 --> 00:00:06,000
+Welcome to the demo video! This is the first subtitle segment.
+
+2
+00:00:06,000 --> 00:00:12,000
+Here we have some interesting content that should be highlighted.
+
+3
+00:00:12,000 --> 00:00:18,000
+The video continues with more engaging moments and dialogue.
+
+4
+00:00:18,000 --> 00:00:24,000
+This segment contains some really funny moments that viewers will love.
+
+5
+00:00:24,000 --> 00:00:30,000
+Another exciting scene with action and drama unfolding.
+
+6
+00:00:30,000 --> 00:00:36,000
+The plot thickens as we reach a crucial turning point in the story.
+
+7
+00:00:36,000 --> 00:00:42,000
+Characters interact in meaningful ways, revealing important information.
+
+8
+00:00:42,000 --> 00:00:48,000
+The tension builds as we approach the climax of this sequence.
+
+9
+00:00:48,000 --> 00:00:54,000
+A surprising twist occurs that changes everything!
+
+10
+00:00:54,000 --> 00:01:00,000
+The scene concludes with a satisfying resolution and setup for what's next.
+
+11
+00:01:00,000 --> 00:01:06,000
+Moving into the next major segment of our demo video.
+
+12
+00:01:06,000 --> 00:01:12,000
+More character development and story progression here.
+
+13
+00:01:12,000 --> 00:01:18,000
+Some technical details and background information are shared.
+
+14
+00:01:18,000 --> 00:01:24,000
+The narrative continues with additional plot elements.
+
+15
+00:01:24,000 --> 00:01:30,000
+Another humorous moment that adds levity to the serious content.
+
+16
+00:01:30,000 --> 00:01:36,000
+The story reaches another important milestone in the journey.
+
+17
+00:01:36,000 --> 00:01:42,000
+Characters face challenges and overcome obstacles together.
+
+18
+00:01:42,000 --> 00:01:48,000
+A heartwarming moment that connects with the audience emotionally.
+
+19
+00:01:48,000 --> 00:01:54,000
+The pace picks up as we move toward the final act.
+
+20
+00:01:54,000 --> 00:02:00,000
+The demo concludes with a memorable final scene and closing thoughts. 
