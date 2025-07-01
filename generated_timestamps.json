@@ -1,0 +1,58 @@
+{
+  "video_summary": [
+    {
+      "start_time": 25.817,
+      "end_time": 31.74,
+      "description": "Woo-hoo! TGI Monday\u2014time to build my future with the power of work.",
+      "category": "setup"
+    },
+    {
+      "start_time": 33.742,
+      "end_time": 40.372,
+      "description": "Fresh doughnuts in the break room? No time\u2014work, work, work!",
+      "category": "setup"
+    },
+    {
+      "start_time": 45.712,
+      "end_time": 51.885,
+      "description": "Only two people ahead\u2014I'll be on top in no time.",
+      "category": "setup"
+    },
+    {
+      "start_time": 58.725,
+      "end_time": 69.903,
+      "description": "Quitting time? Not yet\u2014who are you really fooling?",
+      "category": "conflict"
+    },
+    {
+      "start_time": 79.871,
+      "end_time": 82.623,
+      "description": "What the... I hired that cone\u2014I'm losing it!",
+      "category": "conflict"
+    },
+    {
+      "start_time": 84.042,
+      "end_time": 89.338,
+      "description": "When did I go from up-and-comer to beer drinker?",
+      "category": "climax"
+    },
+    {
+      "start_time": 93.426,
+      "end_time": 97.763,
+      "description": "I used to have ambition, Moe. What took it away?",
+      "category": "climax"
+    },
+    {
+      "start_time": 108.525,
+      "end_time": 124.623,
+      "description": "You start with huge dreams, then end up with a small ball of regrets.",
+      "category": "resolution"
+    },
+    {
+      "start_time": 131.256,
+      "end_time": 133.048,
+      "description": "I share your disappointment\u2014you see, I never grew out of it.",
+      "category": "punchline"
+    }
+  ]
+}
